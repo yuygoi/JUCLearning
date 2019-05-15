@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AtomicReferenceDemo/AtomicReferenceDemo.iml" filepath="$PROJECT_DIR$/AtomicReferenceDemo/AtomicReferenceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountDownLatch_Cyclic__/CountDownLatch_Cyclic__.iml" filepath="$PROJECT_DIR$/CountDownLatch_Cyclic__/CountDownLatch_Cyclic__.iml" />
       <module fileurl="file://$PROJECT_DIR$/LockDemo/SameLockDemo.iml" filepath="$PROJECT_DIR$/LockDemo/SameLockDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/VolatileDemo/VolatileDemo.iml" filepath="$PROJECT_DIR$/VolatileDemo/VolatileDemo.iml" />
     </modules>
