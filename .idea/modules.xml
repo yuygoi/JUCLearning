@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AtomicReferenceDemo/AtomicReferenceDemo.iml" filepath="$PROJECT_DIR$/AtomicReferenceDemo/AtomicReferenceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/CountDownLatch_Cyclic__/CountDownLatch_Cyclic__.iml" filepath="$PROJECT_DIR$/CountDownLatch_Cyclic__/CountDownLatch_Cyclic__.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLock/DeadLock.iml" filepath="$PROJECT_DIR$/DeadLock/DeadLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyThreadPool/MyThreadPool.iml" filepath="$PROJECT_DIR$/MyThreadPool/MyThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerConsumerExer/ProducerConsumerExer.iml" filepath="$PROJECT_DIR$/ProducerConsumerExer/ProducerConsumerExer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LockDemo/SameLockDemo.iml" filepath="$PROJECT_DIR$/LockDemo/SameLockDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/VolatileDemo/VolatileDemo.iml" filepath="$PROJECT_DIR$/VolatileDemo/VolatileDemo.iml" />
     </modules>
